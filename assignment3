@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>my simple store</title>
+</head>
+
+<body>
+    <!-- Navigation Bar -->
+    <div class="logo">
+        <h1>Apni Shop</h1>
+    </div>
+    <nav>
+        <ul>
+            <li><a href="assignment1">home</a></li>
+            <li><a href="assignment2">product </a></li>
+            <li><a href="assignment8">cart</a></li>
+            <li><a href="#">balance</a></li>
+        </ul>
+
+
+
+    </nav>
+    <!-- Product Section -->
+    <div class="container">
+        <h1>Hamare products</h1>
+        <div class="product-grid">
+            <!-- Product 1 -->
+             <div class="product-card">
+
+             <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-card-40-17pro-202509_FMT_WHH?wid=508&hei=472&fmt=p-jpg&qlt=95&.v=WVVFRzUzVk1oblJhbW9PbGNSU25ja3doNjVzb1FWSTVwZWJJYThYTHlrNzQzbUlIR1RvazhDRHNOQlYvM3g2dFIwdkZSSnBZYjhOaHBpM2lkYTFBUEZHTmVoMWFVZloyU3lqdmZCOUFEeDF6K2N6UFd4K21VWHNnbWZBQ3hSanQ" height="300" width="300" alt="smartphone">
+             <h3>Smartphone</h3>
+             <p>RS.25000</p>
+             <button>add to cart</button>
+
+             </div>
+             <div class="product-card">
+                <!-- product 2 -->
+                 <div>
+                    <img src="https://www.laptab.com.pk/theme/mobile/800/w08-smart-watch-2.jpg" height="300" width="300"  alt="smartwatch">
+                    <h3>Smartwatch</h3>
+                    <p>RS.5000</p>
+                    <button>add to cart</button>
+                 </div>
+
+
+
+                 
+
+
+             </div>
+        </div>
+
+
+
+    </div>
+
+
+
+
+
+
+
+</body>
+
+
+</html>
